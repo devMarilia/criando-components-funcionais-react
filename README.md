@@ -7,6 +7,9 @@
 
 
 
+
+
+
 ### Ícones para commits padrão
 
 - :package: nova funcionalidade
