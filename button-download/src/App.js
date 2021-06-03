@@ -1,12 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'
+import ButtonDownload from '../src/components/ButtonDownload'
 
-export default class App extends Component {
-  render() {
-    return (
-      <div>
-        <h1>Arquivos</h1>
-      </div>
-    )
-  }
+function App() {
+  return (
+    <div>
+      <ButtonDownload/>
+    </div>
+  )
 }
+
+export default App
 
