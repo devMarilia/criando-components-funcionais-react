@@ -5,6 +5,22 @@
 
 <img align="center" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br /><br />
 
+
+ <h2 align="center">Download De arquvo PDF </h2>
+
+
+
+<img align="center" src="https://media.giphy.com/media/kP4YXKChf0bz1cguA8/giphy.gif" alt= "gif"><br /><br />
+
+Nossa que bacana este projeto! Eu estou definitivamente surpresa. 
+Com apenas poucas linhas de código pude criar um <b>Download<b> de arquivo PDF/PNG/JPG/JPEG
+
+Espero que você curta este projeto da mesa forma que eu. 
+
+
+
+<img align="center" src="https://media.giphy.com/media/09VvYuVwPlSsWhRSyX/giphy.gif"><br /><br />
+
 # Dependências 
 
 - yarn add jspdf
