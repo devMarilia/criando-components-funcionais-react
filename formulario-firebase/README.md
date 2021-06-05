@@ -7,7 +7,9 @@
 
 
 
+### Dependências
 
+- yarn add styled-components
 
 
 ### Ícones para commits padrão
