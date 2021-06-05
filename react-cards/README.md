@@ -12,7 +12,7 @@
 
 <img align="center" src="https://media.giphy.com/media/4K2WRenP12PPI7GapM/giphy.gif" alt= "gif"><br /><br />
 
-Componente Carde em react js e styled components, completamente responsivo e vem estruturado!
+Componente Card em react js e styled components, completamente responsivo e vem estruturado!
 
 Espero que você tenha gostado deste projeto da mesma forma que eu me apaixonei.
 
